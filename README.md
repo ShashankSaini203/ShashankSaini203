@@ -17,11 +17,11 @@ This is the place where I try to contribute something to this world with my set 
 
 [<img align="left" alt="Visual Studio" title="Visual Studio" width="26px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg"/>](#)
 [<img align="left" alt="NUnit Testing Framework" title="NUnit Testing Framework" width="26px" src="https://avatars.githubusercontent.com/u/2678858?s=200&v=4"/>](#)
-[<img align="left" alt="MStest" width="32px" title="MStest Testing Framework" src="https://www.lambdatest.com/blog/wp-content/uploads/2021/03/MSTest.png"/>](#)
+[<img align="left" alt="MStest" width="40px" title="MStest Testing Framework" src="https://www.lambdatest.com/blog/wp-content/uploads/2021/03/MSTest.png"/>](#)
 [<img align="left" alt="HTML5" width="26px" title="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](#)
-[<img align="left" alt="SQL" width="26px" title="SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](#)
-[<img align="left" alt="MySQL" width="26px" title="MySQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />](#)
-[<img align="left" alt="Git" width="26px" title="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](#)
+[<img align="left" alt="SQL" width="32px" title="SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](#)
+[<img align="left" alt="MySQL" width="32px" title="MySQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />](#)
+[<img align="left" alt="Git" width="32px" title="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](#)
 [<img align="left" alt="GitHub" width="26px" title="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](#)
-[<img align="left" alt="BitBucket" width="36px" title="BitBucket" src="https://wac-cdn.atlassian.com/dam/jcr:c942540c-53ae-4357-bffa-ed37739d71b0/bitbucket-atlassian-logo.svg?cdnVersion=1716" />](#)
+[<img align="left" alt="BitBucket" width="95px" title="BitBucket" src="https://wac-cdn.atlassian.com/dam/jcr:c942540c-53ae-4357-bffa-ed37739d71b0/bitbucket-atlassian-logo.svg?cdnVersion=1716" />](#)
 <br/>
