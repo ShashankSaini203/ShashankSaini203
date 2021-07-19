@@ -4,7 +4,7 @@ This is the place where I try to contribute something to this world with my set 
 - 🔭 I’m currently working on some [Automation Projects](https://github.com/ShashankSaini203?tab=repositories)
 - 🌱 I am fascinated by the idea of creating amazing tools and applications by collaborating with other content creators
 - 💬 [Connect](https://in.linkedin.com/in/shashank-saini-203) with me if you would like to collaborate and work on creative ideas. Lets grow together!
-- ⚡ I :heart: Graphic Designing, Photography, Painting and Traveling
+- ⚡ I :heart: Graphic Designing, Photography, Painting and Learning new things.
 
 ### Connect with me:
 
