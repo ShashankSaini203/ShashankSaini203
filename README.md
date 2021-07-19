@@ -1,5 +1,3 @@
-### Hi there 
-
 ### Hello there, I am  <a href="https://in.linkedin.com/in/shashank-saini-203">Shashank</a>👋
 This is the place where I try to contribute something to this world with my set of skills and ideas :)
 
