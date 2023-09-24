@@ -13,7 +13,7 @@ This is the place where I try to contribute something to this world with my set 
 
 <br />
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=ShashankSaini203&theme=light&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShashankSaini203&theme=light&hide_border=false&include_all_commits=yes&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShashankSaini203&theme=light&hide_border=false&include_all_commits=yes&count_private=false&layout=compact)
 
 ### Languages and Tools:
 
