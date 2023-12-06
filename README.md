@@ -9,18 +9,16 @@ Welcome to my digital space, where I channel my skills and ideas to make a meani
 
 ### Connect with me:
 
-<a href="https://in.linkedin.com/in/shashanksaini203">
-  <img align="left" alt="Shashank Saini-LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="filter: brightness(0) invert(1);" />
-</a>
-
-<a href="https://www.instagram.com/shashank.evolution">
-  <img align="left" alt="Shashank Saini-Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="filter: brightness(0) invert(1);" />
-</a>
+[<img align="left" alt="Shashank Saini-LinkedIn" width="22px" src="https://github.com/ShashankSaini203/ShashankSaini203/assets/85224795/39755a26-7e0e-4485-9308-7d662f42e11c" />](https://in.linkedin.com/in/shashanksaini203)
+[<img align="left" alt="Shashank Saini-Instagram" width="22px" src="https://github.com/ShashankSaini203/ShashankSaini203/assets/85224795/46260184-f022-4807-99f2-014da057b014" />](https://www.instagram.com/shashank.evolution)
 
 <br />
 
+---
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShashankSaini203&theme=light&hide_border=false&include_all_commits=yes&count_private=false&layout=compact)
 
+---
 ### Languages and Tools:
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
