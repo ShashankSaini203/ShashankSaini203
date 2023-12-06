@@ -10,11 +10,11 @@ Welcome to my digital space, where I channel my skills and ideas to make a meani
 ### Connect with me:
 
 <a href="https://in.linkedin.com/in/shashanksaini203">
-  <img align="left" alt="Shashank Saini-LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="filter: invert(100%);" />
+  <img align="left" alt="Shashank Saini-LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="filter: brightness(0) invert(1);" />
 </a>
 
 <a href="https://www.instagram.com/shashank.evolution">
-  <img align="left" alt="Shashank Saini-Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="filter: invert(100%);" />
+  <img align="left" alt="Shashank Saini-Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="filter: brightness(0) invert(1);" />
 </a>
 
 <br />
