@@ -1,6 +1,6 @@
 ### Hello there, I am  <a href="https://in.linkedin.com/in/shashanksaini203">Shashank</a>👋,
 
-Welcome to my digital space, where I channel my skills and ideas to make a meaningful contribution.
+Welcome to my digital space, where I channel my skills and ideas to make a meaningful contributions.
 
 - 🔭 Currently, my focus lies in the realm of developing an ASP.NET Core Multitenant API with JWT Authentication, showcasing my commitment to cutting-edge technologies. Here is the repo -[ASP.NET Core Multitenant API with JWT Authentication project](https://github.com/ShashankSaini203/Multitenant-API-with-JWT-Authentication-.NETCore5.0)
 - 🌱 I find immense joy in collaborating with fellow content creators to craft exceptional tools and applications. The synergy of diverse perspectives fuels my passion for innovation.
