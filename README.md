@@ -1,11 +1,12 @@
-### Hello there, I am  <a href="https://in.linkedin.com/in/shashanksaini203">Shashank</a>👋,
+### Hello there, I am  <a href="https://in.linkedin.com/in/shashanksaini203">Shashank Saini</a>👋,
 
 Welcome to my digital space, where I channel my skills and ideas to make a meaningful contributions.
 
-- 🔭 Currently, my focus lies in the realm of developing an ASP.NET Core Multitenant API with JWT Authentication, showcasing my commitment to cutting-edge technologies. Here is the repo -[ASP.NET Core Multitenant API with JWT Authentication project](https://github.com/ShashankSaini203/Multitenant-API-with-JWT-Authentication-.NETCore5.0)
+- 🛠️ Currently, I am focusing on developing a Rest API solution that implements my knowledge of cutting-edge technologies used in industries these days. I am working on this - [Rest API Playground](https://github.com/ShashankSaini203/RestApiPlayground) repository built with .Net 8, implementing Clean Architecture with CQRS and Mediator pattern, uses Autofac as IoC container, Entity Framework, Fluent validations, Unit Tests, E2E Tests with Specflow and various other standard coding and best practices.
+- 👨🏻‍💻 ASP.NET Core Multitenant API with JWT Authentication. Repo -[ASP.NET Core Multitenant API with JWT Authentication project](https://github.com/ShashankSaini203/Multitenant-API-with-JWT-Authentication-.NETCore5.0)
 - 🌱 I find immense joy in collaborating with fellow content creators to craft exceptional tools and applications. The synergy of diverse perspectives fuels my passion for innovation.
 - 💬 If you share a vision for collaboration and turning imaginative concepts into reality, don't hesitate to [Connect](https://in.linkedin.com/in/shashanksaini203). Let's explore the possibilities and grow together!
-- ⚡ Beyond the world of coding, I :heart: Graphic Designing, Photography, Painting and the perpetual pursuit of knowledge.
+- 🥷 Beyond the world of coding, I :heart: Graphic Designing, Photography, Painting and the perpetual pursuit of knowledge.
 
 ### Connect with me:
 
