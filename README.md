@@ -6,7 +6,7 @@ Welcome to my digital space, where I channel my skills and ideas to make a meani
 - 👨🏻‍💻 ASP.NET Core Multitenant API with JWT Authentication. Repo -[ASP.NET Core Multitenant API with JWT Authentication project](https://github.com/ShashankSaini203/Multitenant-API-with-JWT-Authentication-.NETCore5.0)
 - 🌱 I find immense joy in collaborating with fellow content creators to craft exceptional tools and applications. The synergy of diverse perspectives fuels my passion for innovation.
 - 💬 If you share a vision for collaboration and turning imaginative concepts into reality, don't hesitate to [Connect](https://in.linkedin.com/in/shashanksaini203). Let's explore the possibilities and grow together!
-- 🥷 Beyond the world of coding, I :heart: Graphic Designing, Photography, Painting and the perpetual pursuit of knowledge.
+- 🥷 Beyond the world of coding, I :heart: Graphic Designing(Photoshop and Illustrator), Photography(Cannon DSLR), Painting and the perpetual pursuit of knowledge.
 
 ### Connect with me:
 
